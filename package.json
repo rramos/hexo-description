@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ALiangLiang/hexo-description#readme",
   "dependencies": {
-    "html-to-text": "^3.3.0"
+    "html-to-text": "^9.0.5"
   }
 }
